@@ -1,0 +1,69 @@
+"column_position","column_name","column_type","column_description","original_name","original_position"
+1,"mean_time_body_acceleration_x","double","mean of time domain body acceleration in the x direction","tBodyAcc-mean()-X",1
+2,"mean_time_body_acceleration_y","double","mean of time domain body acceleration in the y direction","tBodyAcc-mean()-Y",2
+3,"mean_time_body_acceleration_z","double","mean of time domain body acceleration in the z direction","tBodyAcc-mean()-Z",3
+4,"std_time_body_acceleration_x","double","standard deviation of time domain body acceleration in the x direction","tBodyAcc-std()-X",4
+5,"std_time_body_acceleration_y","double","standard deviation of time domain body acceleration in the y direction","tBodyAcc-std()-Y",5
+6,"std_time_body_acceleration_z","double","standard deviation of time domain body acceleration in the z direction","tBodyAcc-std()-Z",6
+7,"mean_time_gravity_acceleration_x","double","mean of time domain gravity acceleration in the x direction","tGravityAcc-mean()-X",41
+8,"mean_time_gravity_acceleration_y","double","mean of time domain gravity acceleration in the y direction","tGravityAcc-mean()-Y",42
+9,"mean_time_gravity_acceleration_z","double","mean of time domain gravity acceleration in the z direction","tGravityAcc-mean()-Z",43
+10,"std_time_gravity_acceleration_x","double","standard deviation of time domain gravity acceleration in the x direction","tGravityAcc-std()-X",44
+11,"std_time_gravity_acceleration_y","double","standard deviation of time domain gravity acceleration in the y direction","tGravityAcc-std()-Y",45
+12,"std_time_gravity_acceleration_z","double","standard deviation of time domain gravity acceleration in the z direction","tGravityAcc-std()-Z",46
+13,"mean_time_body_acceleration_x_deriv","double","mean of time domain body acceleration in the x directionderivative","tBodyAccJerk-mean()-X",81
+14,"mean_time_body_acceleration_y_deriv","double","mean of time domain body acceleration in the y directionderivative","tBodyAccJerk-mean()-Y",82
+15,"mean_time_body_acceleration_z_deriv","double","mean of time domain body acceleration in the z directionderivative","tBodyAccJerk-mean()-Z",83
+16,"std_time_body_acceleration_x_deriv","double","standard deviation of time domain body acceleration in the x directionderivative","tBodyAccJerk-std()-X",84
+17,"std_time_body_acceleration_y_deriv","double","standard deviation of time domain body acceleration in the y directionderivative","tBodyAccJerk-std()-Y",85
+18,"std_time_body_acceleration_z_deriv","double","standard deviation of time domain body acceleration in the z directionderivative","tBodyAccJerk-std()-Z",86
+19,"mean_time_body_angular_x","double","mean of time domain body angular velocity in the x direction","tBodyGyro-mean()-X",121
+20,"mean_time_body_angular_y","double","mean of time domain body angular velocity in the y direction","tBodyGyro-mean()-Y",122
+21,"mean_time_body_angular_z","double","mean of time domain body angular velocity in the z direction","tBodyGyro-mean()-Z",123
+22,"std_time_body_angular_x","double","standard deviation of time domain body angular velocity in the x direction","tBodyGyro-std()-X",124
+23,"std_time_body_angular_y","double","standard deviation of time domain body angular velocity in the y direction","tBodyGyro-std()-Y",125
+24,"std_time_body_angular_z","double","standard deviation of time domain body angular velocity in the z direction","tBodyGyro-std()-Z",126
+25,"mean_time_body_angular_x_deriv","double","mean of time domain body angular velocity in the x directionderivative","tBodyGyroJerk-mean()-X",161
+26,"mean_time_body_angular_y_deriv","double","mean of time domain body angular velocity in the y directionderivative","tBodyGyroJerk-mean()-Y",162
+27,"mean_time_body_angular_z_deriv","double","mean of time domain body angular velocity in the z directionderivative","tBodyGyroJerk-mean()-Z",163
+28,"std_time_body_angular_x_deriv","double","standard deviation of time domain body angular velocity in the x directionderivative","tBodyGyroJerk-std()-X",164
+29,"std_time_body_angular_y_deriv","double","standard deviation of time domain body angular velocity in the y directionderivative","tBodyGyroJerk-std()-Y",165
+30,"std_time_body_angular_z_deriv","double","standard deviation of time domain body angular velocity in the z directionderivative","tBodyGyroJerk-std()-Z",166
+31,"mean_time_body_acceleration_mag","double","mean of time domain body acceleration magnitude","tBodyAccMag-mean()",201
+32,"std_time_body_acceleration_mag","double","standard deviation of time domain body acceleration magnitude","tBodyAccMag-std()",202
+33,"mean_time_gravity_acceleration_mag","double","mean of time domain gravity acceleration magnitude","tGravityAccMag-mean()",214
+34,"std_time_gravity_acceleration_mag","double","standard deviation of time domain gravity acceleration magnitude","tGravityAccMag-std()",215
+35,"mean_time_body_acceleration_mag_deriv","double","mean of time domain body acceleration magnitude derivative","tBodyAccJerkMag-mean()",227
+36,"std_time_body_acceleration_mag_deriv","double","standard deviation of time domain body acceleration magnitude derivative","tBodyAccJerkMag-std()",228
+37,"mean_time_body_angular_mag","double","mean of time domain body angular velocity magnitude","tBodyGyroMag-mean()",240
+38,"std_time_body_angular_mag","double","standard deviation of time domain body angular velocity magnitude","tBodyGyroMag-std()",241
+39,"mean_time_body_angular_mag_deriv","double","mean of time domain body angular velocity magnitude derivative","tBodyGyroJerkMag-mean()",253
+40,"std_time_body_angular_mag_deriv","double","standard deviation of time domain body angular velocity magnitude derivative","tBodyGyroJerkMag-std()",254
+41,"mean_frequency_body_acceleration_x","double","mean of frequency domain body acceleration in the x direction","fBodyAcc-mean()-X",266
+42,"mean_frequency_body_acceleration_y","double","mean of frequency domain body acceleration in the y direction","fBodyAcc-mean()-Y",267
+43,"mean_frequency_body_acceleration_z","double","mean of frequency domain body acceleration in the z direction","fBodyAcc-mean()-Z",268
+44,"std_frequency_body_acceleration_x","double","standard deviation of frequency domain body acceleration in the x direction","fBodyAcc-std()-X",269
+45,"std_frequency_body_acceleration_y","double","standard deviation of frequency domain body acceleration in the y direction","fBodyAcc-std()-Y",270
+46,"std_frequency_body_acceleration_z","double","standard deviation of frequency domain body acceleration in the z direction","fBodyAcc-std()-Z",271
+47,"mean_frequency_body_acceleration_x_deriv","double","mean of frequency domain body acceleration in the x directionderivative","fBodyAccJerk-mean()-X",345
+48,"mean_frequency_body_acceleration_y_deriv","double","mean of frequency domain body acceleration in the y directionderivative","fBodyAccJerk-mean()-Y",346
+49,"mean_frequency_body_acceleration_z_deriv","double","mean of frequency domain body acceleration in the z directionderivative","fBodyAccJerk-mean()-Z",347
+50,"std_frequency_body_acceleration_x_deriv","double","standard deviation of frequency domain body acceleration in the x directionderivative","fBodyAccJerk-std()-X",348
+51,"std_frequency_body_acceleration_y_deriv","double","standard deviation of frequency domain body acceleration in the y directionderivative","fBodyAccJerk-std()-Y",349
+52,"std_frequency_body_acceleration_z_deriv","double","standard deviation of frequency domain body acceleration in the z directionderivative","fBodyAccJerk-std()-Z",350
+53,"mean_frequency_body_angular_x","double","mean of frequency domain body angular velocity in the x direction","fBodyGyro-mean()-X",424
+54,"mean_frequency_body_angular_y","double","mean of frequency domain body angular velocity in the y direction","fBodyGyro-mean()-Y",425
+55,"mean_frequency_body_angular_z","double","mean of frequency domain body angular velocity in the z direction","fBodyGyro-mean()-Z",426
+56,"std_frequency_body_angular_x","double","standard deviation of frequency domain body angular velocity in the x direction","fBodyGyro-std()-X",427
+57,"std_frequency_body_angular_y","double","standard deviation of frequency domain body angular velocity in the y direction","fBodyGyro-std()-Y",428
+58,"std_frequency_body_angular_z","double","standard deviation of frequency domain body angular velocity in the z direction","fBodyGyro-std()-Z",429
+59,"mean_frequency_body_acceleration_mag","double","mean of frequency domain body acceleration magnitude","fBodyAccMag-mean()",503
+60,"std_frequency_body_acceleration_mag","double","standard deviation of frequency domain body acceleration magnitude","fBodyAccMag-std()",504
+61,"mean_frequency_body_acceleration_mag_deriv","double","mean of frequency domain body acceleration magnitude derivative","fBodyBodyAccJerkMag-mean()",516
+62,"std_frequency_body_acceleration_mag_deriv","double","standard deviation of frequency domain body acceleration magnitude derivative","fBodyBodyAccJerkMag-std()",517
+63,"mean_frequency_body_angular_mag","double","mean of frequency domain body angular velocity magnitude","fBodyBodyGyroMag-mean()",529
+64,"std_frequency_body_angular_mag","double","standard deviation of frequency domain body angular velocity magnitude","fBodyBodyGyroMag-std()",530
+65,"mean_frequency_body_angular_mag_deriv","double","mean of frequency domain body angular velocity magnitude derivative","fBodyBodyGyroJerkMag-mean()",542
+66,"std_frequency_body_angular_mag_deriv","double","standard deviation of frequency domain body angular velocity magnitude derivative","fBodyBodyGyroJerkMag-std()",543
+67,"subject_id","integer","Identifier of the subject under observation","subject_id",562
+68,"activity","character","Activity description","activity",564
