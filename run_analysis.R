@@ -260,7 +260,7 @@ cleaned_data <- df %>% group_by(subject_id, activity) %>% summarise_all(mean)
 
 # can now write outputs
 # first write aggregate df as cleaned_data.csv
-write.csv(cleaned_data, "cleaned_data.csv", row.names = FALSE)
+write.table(cleaned_data, "cleaned_data.txt", row.names = FALSE)
 
 # then write dictionary as code_book.csv
-write.csv(dictionary, "code_book.csv", row.names = FALSE)
+write.table(dictionary, "code_book.txt", row.names = FALSE)
